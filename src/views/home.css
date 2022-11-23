@@ -1,0 +1,527 @@
+.home-container {
+  min-height: 100vh;
+}
+.home-home {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  height: 844px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-rectangle11 {
+  top: -30px;
+  left: 0px;
+  width: 391px;
+  height: 271px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px;
+}
+.home-text {
+  top: 48px;
+  left: 136px;
+  color: rgba(249, 249, 249, 1);
+  height: auto;
+  opacity: 0.40;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-rectangle3 {
+  top: 760px;
+  left: -33px;
+  width: 456px;
+  height: 98px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.home-text02 {
+  top: 124px;
+  left: 46px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text04 {
+  top: 330px;
+  left: 43px;
+  color: rgba(44, 43, 43, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text06 {
+  top: 617px;
+  left: 46px;
+  color: rgba(44, 43, 43, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-rectangle10 {
+  top: 375px;
+  left: 43px;
+  width: 314px;
+  height: 210px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.home-rectangle13 {
+  top: 663px;
+  left: 43px;
+  width: 314px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.home-text08 {
+  top: 417px;
+  left: 136px;
+  color: rgba(78, 69, 69, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text10 {
+  top: 680px;
+  left: 79px;
+  color: rgba(78, 69, 69, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text12 {
+  top: 502px;
+  left: 136px;
+  color: rgba(78, 69, 69, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text14 {
+  top: 446px;
+  left: 136px;
+  color: rgba(21, 69, 163, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text16 {
+  top: 680px;
+  left: 254px;
+  color: rgba(21, 69, 163, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text18 {
+  top: 135px;
+  left: 272px;
+  color: rgba(240, 240, 241, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text20 {
+  top: 341px;
+  left: 272px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text22 {
+  top: 629px;
+  left: 272px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text24 {
+  top: 527px;
+  left: 136px;
+  color: rgba(21, 69, 163, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text26 {
+  top: 446px;
+  left: 177px;
+  color: rgba(78, 69, 69, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-text28 {
+  top: 527px;
+  left: 174px;
+  color: rgba(78, 69, 69, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-rectangle8 {
+  top: 402px;
+  left: 53px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.home-rectangle9 {
+  top: 487px;
+  left: 53px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 7px;
+}
+.home-check1 {
+  top: 422px;
+  left: 73px;
+  width: 30px;
+  height: 30px;
+  opacity: 0.60;
+  position: absolute;
+  border-color: transparent;
+}
+.home-check2 {
+  top: 507px;
+  left: 73px;
+  width: 30px;
+  height: 30px;
+  opacity: 0.10;
+  position: absolute;
+  border-color: transparent;
+}
+.home-more1 {
+  top: 451px;
+  left: 318px;
+  width: 28px;
+  height: 28px;
+  opacity: 0.60;
+  position: absolute;
+  border-color: transparent;
+}
+.home-more2 {
+  top: 536px;
+  left: 318px;
+  width: 28px;
+  height: 28px;
+  opacity: 0.60;
+  position: absolute;
+  border-color: transparent;
+}
+.home-maskgroup {
+  top: 170px;
+  left: 38px;
+  width: 314px;
+  height: 142px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(240, 240, 241, 1);
+}
+.home-businessladyofficedesk1 {
+  top: -5px;
+  left: 0px;
+  width: 319px;
+  height: 214px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 17px;
+}
+.home-text30 {
+  top: 276px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.home-playbutton1 {
+  top: 260px;
+  left: 175px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-notification1 {
+  top: 48px;
+  left: 328px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-tasks {
+  top: 788px;
+  left: 231px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-rectangle12 {
+  top: 778px;
+  left: 127px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.home-chat {
+  top: 788px;
+  left: 326px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-youtube1 {
+  top: 788px;
+  left: 38px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-home1 {
+  top: 788px;
+  left: 137px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-youtube {
+  top: 788px;
+  left: 38px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.home-group4 {
+  top: 41px;
+  left: 39px;
+  width: 40px;
+  height: 39px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.home-businessmanleadermodernofficewithbusinesspeoplewor {
+  top: 0px;
+  left: -3px;
+  width: 86px;
+  height: 58px;
+  position: absolute;
+  border-color: transparent;
+}

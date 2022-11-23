@@ -1,0 +1,238 @@
+.signup-container {
+  min-height: 100vh;
+}
+.signup-signup {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-text {
+  top: 104px;
+  left: 46px;
+  color: rgba(21, 69, 163, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-line1 {
+  top: 235px;
+  left: 42px;
+  width: 306px;
+  height: 0px;
+  position: absolute;
+}
+.signup-line2 {
+  top: 305px;
+  left: 42px;
+  width: 306px;
+  height: 0px;
+  position: absolute;
+}
+.signup-line3 {
+  top: 375px;
+  left: 42px;
+  width: 306px;
+  height: 0px;
+  position: absolute;
+}
+.signup-line4 {
+  top: 445px;
+  left: 42px;
+  width: 306px;
+  height: 0px;
+  position: absolute;
+}
+.signup-line5 {
+  top: 515px;
+  left: 42px;
+  width: 306px;
+  height: 0px;
+  position: absolute;
+}
+.signup-text02 {
+  top: 204px;
+  left: 56px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-text04 {
+  top: 274px;
+  left: 56px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-text06 {
+  top: 344px;
+  left: 56px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-text08 {
+  top: 414px;
+  left: 56px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-text10 {
+  top: 484px;
+  left: 56px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-text12 {
+  top: 674px;
+  left: 92px;
+  color: rgba(79, 74, 74, 1);
+  height: auto;
+  opacity: 0.50;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-rectangle3 {
+  top: 580px;
+  left: 28px;
+  width: 306px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 30px;
+}
+.signup-text14 {
+  top: 598px;
+  left: 150px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signup-rectangle2 {
+  top: 709px;
+  left: 99px;
+  width: 193px;
+  height: 52px;
+  opacity: 0.80;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 30px;
+}
+.signup-text16 {
+  top: 725px;
+  left: 175px;
+  color: rgba(21, 70, 163, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.launchscreen-container {
+  min-height: 100vh;
+}
+.launchscreen-launchscreen {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.launchscreen-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  height: 844px;
+  position: absolute;
+  border-color: transparent;
+}
+.launchscreen-flexilsvg1 {
+  top: 365px;
+  left: 156px;
+  width: 75px;
+  height: 75px;
+  position: absolute;
+}
